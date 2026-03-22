@@ -85,6 +85,15 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de São Paulo. Atua
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="GIT"
+    title="GIT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
 <br/>
 <br/>
 
