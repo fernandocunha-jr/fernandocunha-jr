@@ -8,9 +8,6 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de São Paulo. Atua
     <a href="https://www.linkedin.com/in/fernandocunhajunior">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:contatolaurenticunha@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
     <a href="https://github.com/fernandocunha-jr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
