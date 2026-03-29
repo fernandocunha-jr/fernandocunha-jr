@@ -2,7 +2,7 @@
 
 **Estudante de Análise e Desnevolvimento de Sistemas - FACENS**
 
-Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Tenho grande interesse pela área de tecnologia. Gosto muito de aprender coisas novas e estou sempre em busca de ampliar meus conhecimentos, seja por meio dos estudos, projetos ou explorando novas ferramentas. Tenho curiosidade e motivação para evoluir constantemente, acompanhando as inovações do mundo tecnológico e buscando me desenvolver tanto pessoal quanto profissionalmente.
+Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Tenho grande interesse pela área de tecnologia. Gosto muito de aprender coisas novas e estou sempre em busca de ampliar meus conhecimentos, seja por meio dos estudos, projetos ou explorando novas ferramentas. Tenho curiosidade e motivação para evoluir constantemente, acompanhando as inovações do mundo tecnológico e buscando me desenvolver tanto pessoal quanto profissionalmente.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/fernandocunhajunior">
