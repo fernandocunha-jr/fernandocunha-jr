@@ -26,11 +26,11 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
 
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
 />
 
 <img 
