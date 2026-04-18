@@ -9,9 +9,11 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://github.com/fernandocunha-jr" title="Me siga no GitHub">
-      <img src="https://img.shields.io/github/followers/fernandocunhajr?label=Seguidores&style=for-the-badge&color=0A66C2" />
+        <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-  
+    <a href="https://github.com/fernandocunha-jr?tab=followers" title="Me siga no GitHub">
+        <img src="https://img.shields.io/github/followers/fernandocunha-jr?label=Seguidores&style=for-the-badge&color=0A66C2" />
+    </a>
 </p>
 
 ---
