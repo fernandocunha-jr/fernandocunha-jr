@@ -105,7 +105,7 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=fernandocunha-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1a4fa0&border_color=1a4fa0"
+  src="https://SEU-PROJETO.vercel.app/api?username=fernandocunha-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
 />
 
 </p>
