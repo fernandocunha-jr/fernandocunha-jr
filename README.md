@@ -7,9 +7,6 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
 <p align="left">
     <a href="https://www.linkedin.com/in/fernandocunhajunior" title="Me siga no Linkedin">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://github.com/fernandocunha-jr?tab=followers" title="Me siga no GitHub">
-        <img src="https://img.shields.io/github/followers/fernandocunha-jr?label=GitHub%20%7C%20Seguidores&style=for-the-badge&logo=github&logoColor=white&color=0A66C2&labelColor=0A66C2" />
     </a>    
 </p>
 
@@ -104,10 +101,11 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
 />
 
 <img 
-  align="center"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-stats-alpha.vercel.app/api?username=fernandocunha-jr&cc=000&tc=fff&ic=fff&bc=000"
+  align="center" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=fernandocunha-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1a4fa0&border_color=1a4fa0"
 />
 
 </p>
