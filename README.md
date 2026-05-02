@@ -77,21 +77,18 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
 ### 📊 Estatísticas
 
 <p>
-    
 <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocunha-jr&layout=compact&langs_count=7&theme=tokyonight"
+  align="center" 
+  alt="Top Languages" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocunha-jr&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"
 />
-
 <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fernandocunha-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-    
+  align="center" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=fernandocunha-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+/>  
 </p>
 
