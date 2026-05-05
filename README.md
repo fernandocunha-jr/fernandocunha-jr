@@ -93,11 +93,11 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
 
 <p>
     
-<img 
-  align="center" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocunha-jr&layout=compact&langs_count=7&theme=tokyonight"
+<img
+  align="center"
+  alt="Top Languages"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandocunha-jr&layout=compact&langs_count=20&theme=tokyonight&count_private=true"
 />
 
 <img 
