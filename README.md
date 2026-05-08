@@ -2,7 +2,8 @@
 
 **Estudante de Análise e Desnevolvimento de Sistemas - FACENS**
 
-Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Tenho grande interesse pela área de tecnologia. Gosto muito de aprender coisas novas e estou sempre em busca de ampliar meus conhecimentos, seja por meio dos estudos, projetos ou explorando novas ferramentas. Tenho curiosidade e motivação para evoluir constantemente, acompanhando as inovações do mundo tecnológico e buscando me desenvolver tanto pessoal quanto profissionalmente.
+Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualmente focado em desenvolvimento Java, lógica de programação e construção de projetos práticos. Possuo experiência com Git, GitHub, HTML, CSS e fundamentos de Python, além de conhecimentos em metodologias ágeis e melhoria contínua adquiridos em ambiente corporativo.
+Busco evoluir constantemente por meio de estudos, projetos e desafios na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/fernandocunhajunior" title="Me siga no Linkedin">
@@ -52,6 +53,20 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
 
 <img 
     align="left" 
+    alt="GIT"
+    title="GIT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📚 Atualmente estudando
+
+<img 
+    align="left" 
     alt="AWS Cloud"
     title="AWS Cloud" 
     width="30px" 
@@ -75,15 +90,6 @@ Me chamo Fernando Cunha Júnior, tenho 18 anos e sou natural de Sorocaba. Atualm
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="GIT"
-    title="GIT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <br/>
